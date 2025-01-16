@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+package proto;
+
+option go_package = "./proto;proto";
+option java_outer_classname = "orderService";
+option java_multiple_files = true;
+
+service OrderService {
+  rpc NewOrder(NewRequestOrder) returns (NewResponseOrder){};
+}
+
+message NewRequestOrder{
+  string orderRequest = 1;
+
+}
+message NewResponseOrder{
+  string orderResponse = 2;
+  string orderName = 3;
+  int32 orderId = 4;
+  int32 orderPayment = 5;
+}

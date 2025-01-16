@@ -1,0 +1,645 @@
+{"level":"INFO","time":"2024-12-06T14:04:19.654+0700","caller":"initialize/run.go:15","msg":"config log ok","ok":"secces"}
+{"level":"INFO","time":"2024-12-06T14:19:32.516+0700","caller":"initialize/run.go:15","msg":"config log ok","ok":"secces"}
+{"level":"ERROR","time":"2024-12-06T15:15:31.767+0700","caller":"initialize/mysql.go:32","msg":"InitMysql error","error":"dial tcp [::1]:0: connect: can't assign requested address","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:32\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:21\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:16:05.491+0700","caller":"initialize/mysql.go:32","msg":"InitMysql error","error":"dial tcp [::1]:0: connect: can't assign requested address","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:32\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:21\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:16:40.540+0700","caller":"initialize/mysql.go:32","msg":"InitMysql error","error":"dial tcp [::1]:0: connect: can't assign requested address","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:32\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:21\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:17:45.562+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp [::1]:0: connect: can't assign requested address","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:33\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:22\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:18:31.324+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp [::1]:0: connect: can't assign requested address","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:33\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:22\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:18:48.070+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp: lookup tcp/%!s(int=0): unknown port","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:33\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:22\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:19:23.388+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp: lookup tcp/%!s(int=0): unknown port","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:33\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:22\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:21:05.483+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp: lookup tcp/%!s(int=3300): unknown port","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:33\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:22\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:14\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:21:34.247+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp: lookup tcp/%!s(int=3300): unknown port","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:33\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:22\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:7\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-06T15:23:08.630+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"Error 1045 (28000): Access denied for user 'root'@'192.168.65.1' (using password: YES)","stacktrace":"awesomeProject/internal/initialize.checkError\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:33\nawesomeProject/internal/initialize.InitMysql\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/mysql.go:22\nawesomeProject/internal/initialize.Run\n\t/Users/khacvu/GolandProjects/awesomeProject/internal/initialize/run.go:7\nmain.main\n\t/Users/khacvu/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"INFO","time":"2024-12-06T15:23:59.617+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-06T15:52:29.540+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-06T16:41:36.414+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-06T16:41:36.625+0700","caller":"initialize/redis.go:44","msg":"value is ","data":"100"}
+{"level":"INFO","time":"2024-12-06T17:22:07.701+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T16:53:57.243+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T16:55:52.559+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T16:56:52.026+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T16:57:55.848+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T16:58:29.947+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:00:56.809+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:02:44.857+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:04:00.298+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:06:40.324+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:07:06.032+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:07:19.837+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:07:34.505+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:09:36.711+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:09:52.395+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:10:08.411+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:10:31.054+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:11:07.230+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:11:35.938+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:13:10.106+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:14:51.323+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:16:41.293+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:17:52.738+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:18:49.098+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:20:05.033+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:21:06.519+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T17:21:44.051+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:24:25.884+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:51:38.269+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:52:32.989+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:53:29.978+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:54:14.776+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:55:11.820+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:57:32.119+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:58:58.498+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T19:59:54.353+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:00:46.864+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:01:45.727+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:03:15.895+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:04:25.704+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:06:28.477+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:11:11.578+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:11:42.233+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:14:30.800+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:17:17.208+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-07T20:17:46.901+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-08T09:26:55.048+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-08T09:30:30.512+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-08T09:31:31.955+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-08T09:34:35.224+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-09T10:39:37.511+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-09T10:47:20.870+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"ERROR","time":"2024-12-11T14:21:34.168+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp [::1]:3300: connect: connection refused","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:33\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:22\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:8\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-11T14:24:26.522+0700","caller":"initialize/mysql.go:33","msg":"InitMysql error","error":"dial tcp [::1]:3300: connect: connection refused","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:33\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:22\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:8\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"INFO","time":"2024-12-14T09:32:55.766+0700","caller":"initialize/mysql.go:23","msg":"connect ok"}
+{"level":"ERROR","time":"2024-12-15T20:44:23.665+0700","caller":"initialize/mysql.go:30","msg":"InitMysql error","error":"sql: unknown driver \"mysql\" (forgotten import?)","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:30\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:19\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:10\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-15T20:45:21.128+0700","caller":"initialize/mysql.go:30","msg":"InitMysql error","error":"sql: unknown driver \"mysql\" (forgotten import?)","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:30\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:19\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:10\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-15T20:46:01.741+0700","caller":"initialize/mysql.go:30","msg":"InitMysql error","error":"sql: unknown driver \"mysql\" (forgotten import?)","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:30\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:19\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:10\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"INFO","time":"2024-12-15T20:47:26.881+0700","caller":"initialize/mysql.go:21","msg":"connect ok"}
+{"level":"ERROR","time":"2024-12-15T20:55:12.446+0700","caller":"initialize/mysql.go:29","msg":"InitMysql error","error":"sql: unknown driver \"mysql\" (forgotten import?)","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:29\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:18\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:10\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-15T20:56:25.084+0700","caller":"initialize/mysql.go:29","msg":"InitMysql error","error":"sql: unknown driver \"mysql\" (forgotten import?)","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:29\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:18\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:10\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"ERROR","time":"2024-12-15T21:01:31.133+0700","caller":"initialize/mysql.go:29","msg":"InitMysql error","error":"sql: unknown driver \"mysql\" (forgotten import?)","stacktrace":"awesomeProject/src/initialize.checkError\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:29\nawesomeProject/src/initialize.InitMysql\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/mysql.go:18\nawesomeProject/src/initialize.Run\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/initialize/run.go:10\nmain.main\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/cmd/server/main.go:6\nruntime.main\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/runtime/proc.go:271"}
+{"level":"INFO","time":"2024-12-15T21:02:26.555+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:02:26.555+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-15T21:04:33.249+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:04:33.250+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-15T21:05:15.545+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:05:15.545+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-15T21:06:01.533+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:06:01.533+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-15T21:13:26.107+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:13:26.107+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-15T21:14:03.877+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:14:03.877+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-15T21:22:42.242+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:22:42.243+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-15T21:40:52.472+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-15T21:40:52.472+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:04:56.180+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:04:56.181+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:10:35.616+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:10:35.617+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:31:04.119+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:31:04.120+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:32:01.115+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:32:01.116+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:32:49.259+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:32:49.260+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:35:50.450+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:35:50.450+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:40:12.655+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:40:12.656+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:41:14.581+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:41:14.581+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:42:08.368+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:42:08.369+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:43:23.954+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:43:23.955+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:44:05.289+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:44:05.289+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:44:44.669+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:44:44.669+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:46:05.896+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:46:05.897+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:48:18.795+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:48:18.796+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:48:45.626+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:48:45.627+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:55:31.972+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:55:31.973+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T16:57:47.876+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T16:57:47.876+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:01:59.557+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:01:59.557+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:16:21.913+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:16:21.914+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:17:32.034+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:17:32.035+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:19:31.117+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:19:31.118+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:35:59.278+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:35:59.279+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:36:38.698+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:36:38.700+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:36:46.213+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:36:46.214+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:44:38.484+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:44:38.485+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:44:56.521+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:44:56.521+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T17:50:30.957+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T17:50:30.958+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T18:03:37.996+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T18:03:37.997+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T18:05:56.480+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T18:05:56.481+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T18:08:14.345+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T18:08:14.347+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T18:10:03.392+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T18:10:03.395+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T18:11:15.214+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T18:11:15.215+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T19:46:39.314+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T19:46:39.315+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T19:51:00.778+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T19:51:00.778+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T19:51:50.964+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T19:51:50.964+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-18T19:54:07.840+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-18T19:54:07.841+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T09:56:37.490+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T09:56:37.490+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T10:21:53.893+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T10:21:53.894+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T10:22:59.557+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T10:22:59.558+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T13:53:27.748+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T13:53:27.749+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T13:54:07.009+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T13:54:07.011+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T13:55:08.903+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T13:55:08.903+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T13:56:22.339+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T13:56:22.340+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T14:24:38.524+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T14:24:38.525+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T14:25:51.684+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T14:25:51.685+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T14:32:46.879+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T14:32:46.881+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T14:37:14.924+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T14:37:14.926+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:07:34.408+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:07:34.409+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:09:03.479+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:09:03.480+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:10:05.168+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:10:05.169+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:11:17.212+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:11:17.214+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:11:48.691+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:11:48.692+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:13:59.210+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:13:59.211+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:15:35.702+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:15:35.704+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-19T16:17:49.274+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-19T16:17:49.274+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-21T02:26:47.186+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-21T02:26:47.187+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T16:55:44.476+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T16:55:44.477+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T16:57:01.157+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T16:57:01.159+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:01:10.943+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:01:10.944+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:02:49.467+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:02:49.468+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:03:56.820+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:03:56.820+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:04:02.847+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:04:02.847+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:04:14.629+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:04:14.630+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:07:14.132+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:07:14.133+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:07:42.939+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:07:42.939+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:08:34.085+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:08:34.086+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:09:07.269+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:09:07.270+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:09:24.447+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:09:24.448+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:09:46.223+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:09:46.224+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:12:30.694+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:12:30.694+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:19:11.052+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:19:11.053+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:19:59.263+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:19:59.264+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:20:45.652+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:20:45.652+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:21:14.183+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:21:14.183+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:28:47.399+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:28:47.400+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:32:38.597+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:32:38.598+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-23T17:36:04.174+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-23T17:36:04.174+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-24T08:52:09.550+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-24T08:52:09.551+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-24T08:53:02.897+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-24T08:53:02.897+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-24T08:57:51.069+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-24T08:57:51.070+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-24T09:04:14.219+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-24T09:04:14.219+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-24T19:53:57.162+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-24T19:53:57.163+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-24T19:59:59.262+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-24T19:59:59.263+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-24T20:02:35.431+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-24T20:02:35.431+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-25T19:54:25.206+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-25T19:54:25.207+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T15:05:20.879+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T15:05:20.880+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:04:53.035+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:04:53.035+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:18:39.263+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:18:39.264+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:22:19.143+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:22:19.145+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:28:31.240+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:28:31.241+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:31:25.436+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:31:25.437+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:36:02.822+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:36:02.823+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:38:42.215+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:38:42.218+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:42:04.570+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:42:04.571+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:43:06.539+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:43:06.540+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:44:32.220+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:44:32.222+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:46:35.968+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:46:35.969+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:47:50.842+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:47:50.843+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:53:48.054+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:53:48.056+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T16:54:25.360+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T16:54:25.360+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T19:39:55.031+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T19:39:55.031+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T19:51:14.346+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T19:51:14.347+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T19:53:18.205+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T19:53:18.205+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T19:54:59.207+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T19:54:59.209+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T19:56:52.885+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T19:56:52.885+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-26T20:00:48.755+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-26T20:00:48.755+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T21:47:51.150+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T21:47:51.151+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T21:49:04.896+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T21:49:04.897+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T21:53:38.013+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T21:53:38.014+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"ERROR","time":"2024-12-29T21:54:06.829+0700","caller":"logger/logger.go:98","msg":"Logstash returned non-200 status: 404","stacktrace":"awesomeProject/pkg/logger.(*LoggerZap).SendLogToLogstash\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/pkg/logger/logger.go:98\nawesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:38\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"ERROR","time":"2024-12-29T21:54:08.276+0700","caller":"impl/admin.server.product.impl.go:39","msg":"add Product Error: {0 https://example.com/product-1 Electronics This is a sample product description. 199.99 1 50 Sample Product 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}","stacktrace":"awesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:39\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"INFO","time":"2024-12-29T22:00:45.576+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:00:45.576+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"ERROR","time":"2024-12-29T22:02:15.320+0700","caller":"logger/logger.go:98","msg":"Logstash returned non-200 status: 404","stacktrace":"awesomeProject/pkg/logger.(*LoggerZap).SendLogToLogstash\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/pkg/logger/logger.go:98\nawesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:38\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/initialize.InitRouter.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"ERROR","time":"2024-12-29T22:02:15.323+0700","caller":"impl/admin.server.product.impl.go:39","msg":"add Product Error: {0 https://example.com/product-1 Electronics This is a sample product description. 199.99 1 50 Sample Product 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}","stacktrace":"awesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:39\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/initialize.InitRouter.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"INFO","time":"2024-12-29T22:08:29.829+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:08:29.830+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:08:43.570+0700","caller":"logger/logger.go:101","msg":"Response body: {\"path\":\"/\",\"status\":404,\"error\":{\"message\":\"Not Found\"}}"}
+{"level":"ERROR","time":"2024-12-29T22:08:43.570+0700","caller":"logger/logger.go:104","msg":"Logstash returned non-200 status: 404","stacktrace":"awesomeProject/pkg/logger.(*LoggerZap).SendLogToLogstash\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/pkg/logger/logger.go:104\nawesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:38\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"ERROR","time":"2024-12-29T22:08:44.466+0700","caller":"impl/admin.server.product.impl.go:39","msg":"add Product Error: {0 https://example.com/product-1 Electronics This is a sample product description. 199.99 1 50 Sample Product 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}","stacktrace":"awesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:39\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"INFO","time":"2024-12-29T22:09:38.319+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:09:38.321+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:10:51.847+0700","caller":"logger/logger.go:101","msg":"Response body: {\"path\":\"/\",\"status\":404,\"error\":{\"message\":\"Not Found\"}}"}
+{"level":"ERROR","time":"2024-12-29T22:11:01.819+0700","caller":"logger/logger.go:104","msg":"Logstash returned non-200 status: 404","stacktrace":"awesomeProject/pkg/logger.(*LoggerZap).SendLogToLogstash\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/pkg/logger/logger.go:104\nawesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:38\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"ERROR","time":"2024-12-29T22:11:04.704+0700","caller":"impl/admin.server.product.impl.go:39","msg":"add Product Error: {0 https://example.com/product-1 Electronics This is a sample product description. 199.99 1 50 Sample Product 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}","stacktrace":"awesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:39\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"INFO","time":"2024-12-29T22:12:03.474+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:12:03.475+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:13:43.249+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:13:43.251+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:14:25.061+0700","caller":"logger/logger.go:103","msg":"Response body: {\"path\":\"/\",\"status\":404,\"error\":{\"message\":\"Not Found\"}}"}
+{"level":"ERROR","time":"2024-12-29T22:14:26.617+0700","caller":"logger/logger.go:106","msg":"Logstash returned non-200 status: 404","stacktrace":"awesomeProject/pkg/logger.(*LoggerZap).SendLogToLogstash\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/pkg/logger/logger.go:106\nawesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:38\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"ERROR","time":"2024-12-29T22:14:29.338+0700","caller":"impl/admin.server.product.impl.go:39","msg":"add Product Error: {0 https://example.com/product-1 Electronics This is a sample product description. 199.99 1 50 Sample Product 0001-01-01 00:00:00 +0000 UTC 0001-01-01 00:00:00 +0000 UTC}","stacktrace":"awesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:39\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"INFO","time":"2024-12-29T22:18:43.775+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:18:43.776+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:19:04.497+0700","caller":"logger/logger.go:103","msg":"Response body: {\"path\":\"/\",\"status\":404,\"error\":{\"message\":\"Not Found\"}}"}
+{"level":"ERROR","time":"2024-12-29T22:19:06.634+0700","caller":"logger/logger.go:106","msg":"Logstash returned non-200 status: 404","stacktrace":"awesomeProject/pkg/logger.(*LoggerZap).SendLogToLogstash\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/pkg/logger/logger.go:106\nawesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:38\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/middleweres.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"INFO","time":"2024-12-29T22:19:11.647+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-29T22:20:51.286+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:20:51.288+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:21:14.886+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-29T22:22:21.339+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:22:21.341+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:22:42.054+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-29T22:23:22.198+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-29T22:23:22.200+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-29T22:23:48.673+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T08:34:06.074+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T08:34:06.075+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T08:34:19.551+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T08:36:31.485+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T08:36:31.487+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T08:38:20.549+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T08:45:53.707+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T08:45:53.708+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T08:48:49.584+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T08:48:49.588+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T08:49:21.484+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T08:49:21.485+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T08:49:42.780+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T08:49:42.781+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T08:53:02.447+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T08:53:02.447+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"ERROR","time":"2024-12-30T08:53:41.711+0700","caller":"impl/admin.server.product.impl.go:35","msg":"add Product Error: dial tcp [::1]:3300: connect: connection refused","stacktrace":"awesomeProject/src/service/impl.(*implAdminProduct).CreateProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/service/impl/admin.server.product.impl.go:35\nawesomeProject/src/controller.(*ProductController).SaveProduct\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/controller/product.controller.go:24\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\nawesomeProject/src/initialize.InitRouter.ReteLimitRequest.func1\n\t/Volumes/Extreme SSD/GolandProjects/awesomeProject/src/middleweres/retelimit.midd.go:18\ngithub.com/gin-gonic/gin.(*Context).Next\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/context.go:185\ngithub.com/gin-gonic/gin.(*Engine).handleHTTPRequest\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:633\ngithub.com/gin-gonic/gin.(*Engine).ServeHTTP\n\t/Users/khacvu/go/pkg/mod/github.com/gin-gonic/gin@v1.10.0/gin.go:589\nnet/http.serverHandler.ServeHTTP\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:3137\nnet/http.(*conn).serve\n\t/Users/khacvu/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.0.darwin-arm64/src/net/http/server.go:2039"}
+{"level":"INFO","time":"2024-12-30T09:51:16.453+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T09:51:16.453+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T09:51:46.935+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T09:59:46.332+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T09:59:46.333+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T09:59:50.047+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T10:48:34.446+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T10:48:34.447+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T10:51:46.337+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T10:51:46.338+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T11:04:57.534+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T16:27:40.674+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T16:28:02.725+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T16:28:02.726+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T16:28:08.472+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T20:03:23.696+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T20:03:23.698+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T20:04:19.729+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T20:04:57.494+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T20:05:40.848+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T20:05:40.849+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T20:06:01.341+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T20:34:46.474+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-30T20:34:46.476+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-30T20:35:17.517+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=199.99) 1 50 %!d(string=Sample Product) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-30T20:43:30.752+0700","caller":"impl/admin.server.product.impl.go:39","msg":"product {0 %!d(string=https://example.com/product-1) %!d(string=Electronics) %!d(string=This is a sample product description.) %!d(float64=10000) 1 50 %!d(string=Sample Product. VU ) {0 0 0} {0 0 0}}"}
+{"level":"INFO","time":"2024-12-31T13:46:59.949+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T13:46:59.949+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T13:51:01.242+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T13:51:01.243+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T13:52:02.150+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T13:52:02.151+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T13:53:26.192+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T13:53:26.193+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T14:08:54.394+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T14:08:54.395+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T14:09:49.944+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T14:09:49.947+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T14:11:16.595+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T14:11:16.597+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T14:15:48.555+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T14:15:48.557+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T14:17:58.237+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T14:17:58.237+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T14:55:30.021+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T14:55:30.021+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T17:59:41.471+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T17:59:41.472+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T18:02:22.580+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T18:02:22.581+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T18:03:00.264+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T18:03:00.266+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T19:08:51.823+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T19:08:51.823+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T19:10:29.092+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T19:10:29.094+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T19:15:34.374+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T19:15:34.374+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T19:19:33.621+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T19:19:33.621+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T19:19:45.825+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T19:19:45.826+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2024-12-31T19:31:21.918+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2024-12-31T19:31:21.919+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-01T10:00:30.274+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-01T10:00:30.275+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-01T10:06:59.366+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-01T10:06:59.368+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-01T10:13:33.484+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-01T10:13:33.485+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-01T10:23:50.085+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-01T10:23:50.087+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-01T10:56:04.487+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-01T10:56:04.488+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-01T10:56:20.078+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-01T10:56:20.079+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T08:59:15.981+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T08:59:15.982+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T09:03:26.649+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T09:03:26.650+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T09:34:35.366+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T09:34:35.367+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T09:42:28.400+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T09:42:28.401+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T09:56:20.346+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T09:56:20.349+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T09:59:36.581+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T09:59:36.582+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T14:31:44.254+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T14:31:44.255+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T17:00:05.521+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T17:00:05.522+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T17:01:16.894+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T17:01:16.895+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T17:08:57.825+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T17:08:57.825+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T17:13:21.485+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T17:13:21.486+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-02T17:20:25.770+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-02T17:20:25.771+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-06T09:35:17.008+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-06T09:35:17.009+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:43:54.208+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:43:54.209+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:44:24.004+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:44:24.005+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:50:25.450+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:50:25.453+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:51:07.248+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:51:07.248+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:51:17.345+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:51:17.345+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:51:25.124+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:51:25.124+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:52:05.028+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:52:05.029+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:55:19.490+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:55:19.491+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:56:52.502+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:56:52.503+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:57:10.244+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:57:10.244+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:57:25.502+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:57:25.502+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T14:59:30.368+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T14:59:30.368+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T15:05:51.419+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T15:05:51.420+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-09T15:06:21.261+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-09T15:06:21.262+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T16:30:04.536+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T16:30:04.536+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T16:59:15.306+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T16:59:15.307+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:00:32.412+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:00:32.413+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:03:43.630+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:03:43.631+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:05:10.279+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:05:10.280+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:07:35.372+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:07:35.373+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:08:22.076+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:08:22.077+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:13:39.752+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:13:39.753+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:14:33.299+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:14:33.300+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T17:16:32.419+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T17:16:32.420+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T20:26:30.103+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T20:26:30.103+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-10T20:26:58.840+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-10T20:26:58.841+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T08:36:41.865+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T08:36:41.865+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:15:22.220+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:15:22.220+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:25:43.364+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:25:43.365+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:32:50.300+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:32:50.300+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:41:29.017+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:41:29.018+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:44:20.484+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:44:20.485+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:50:27.225+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:50:27.225+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:52:49.702+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:52:49.702+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T09:55:49.377+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T09:55:49.378+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:00:09.070+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:00:09.070+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:00:42.443+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:00:42.443+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:01:30.165+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:01:30.166+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:02:05.560+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:02:05.560+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:03:00.472+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:03:00.472+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:05:40.567+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:05:40.568+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:09:12.202+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:09:12.203+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:17:24.905+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:17:24.905+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:19:45.938+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:19:45.939+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:39:56.525+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:39:56.525+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:44:43.211+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:44:43.211+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:46:27.441+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:46:27.442+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T10:59:23.002+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T10:59:23.003+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T11:23:08.941+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T11:23:08.942+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-13T13:32:34.247+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-13T13:32:34.248+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-14T14:21:38.827+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-14T14:21:38.828+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-15T15:18:03.755+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-15T15:18:03.756+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T15:04:41.285+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T15:04:41.286+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:19:47.864+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:19:47.865+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:19:47.893+0700","caller":"initialize/redis.go:41","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:32:41.360+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:32:41.360+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:32:41.376+0700","caller":"initialize/redis.go:41","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:36:01.438+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:36:01.439+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:36:01.487+0700","caller":"initialize/redis.go:41","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:37:01.078+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:37:01.080+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:37:01.090+0700","caller":"initialize/redis.go:41","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:38:33.105+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:38:33.106+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:38:33.288+0700","caller":"initialize/redis.go:41","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:39:53.769+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:39:53.771+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:39:53.781+0700","caller":"initialize/redis.go:41","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:41:56.064+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:41:56.065+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:41:56.076+0700","caller":"initialize/redis.go:41","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:42:59.874+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:42:59.875+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:43:21.441+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:44:14.879+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:44:14.879+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:44:39.266+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:48:24.417+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:48:24.417+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:48:28.476+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:50:07.577+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:50:07.577+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:50:11.430+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:52:09.379+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:52:09.380+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:52:14.868+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T16:57:53.132+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T16:57:53.133+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T16:57:53.171+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:00:45.552+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:00:45.552+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:00:45.636+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:13:40.699+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:13:40.700+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:13:40.783+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:15:10.303+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:15:10.304+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:15:10.308+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:16:46.767+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:16:46.768+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:16:46.890+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:17:44.001+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:17:44.004+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:17:44.080+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:20:02.121+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:20:02.122+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:20:02.137+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:23:37.798+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:23:37.799+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:23:38.199+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:26:34.334+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:26:34.335+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:26:34.535+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:40:34.748+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:40:34.748+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:40:34.765+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:43:29.292+0700","caller":"initialize/mysql.go:20","msg":"connect ok"}
+{"level":"INFO","time":"2025-01-16T17:43:29.292+0700","caller":"initialize/mysql.go:47","msg":"Connection pool configured successfully"}
+{"level":"INFO","time":"2025-01-16T17:43:29.316+0700","caller":"initialize/redis.go:40","msg":"Redis initialized successfully"}
+{"level":"INFO","time":"2025-01-16T17:47:57.234+0700","caller":"cache/product.cache.go:49","msg":"product data%!(EXTRA []uint8=[123 34 105 100 34 58 49 44 34 112 114 111 100 117 99 116 95 117 114 108 34 58 34 104 116 116 112 115 58 47 47 101 120 97 109 112 108 101 46 99 111 109 47 112 114 111 100 117 99 116 47 49 34 44 34 112 114 111 100 117 99 116 95 99 97 116 101 103 111 114 121 34 58 34 69 108 101 99 116 114 111 110 105 99 115 34 44 34 100 101 115 99 114 105 112 116 105 111 110 34 58 34 65 32 104 105 103 104 45 113 117 97 108 105 116 121 32 115 109 97 114 116 112 104 111 110 101 32 119 105 116 104 32 97 109 97 122 105 110 103 32 102 101 97 116 117 114 101 115 46 34 44 34 112 114 105 99 101 34 58 48 44 34 115 116 97 116 117 115 34 58 49 44 34 113 117 97 110 116 105 116 121 34 58 49 48 48 44 34 112 114 111 100 117 99 116 95 110 97 109 101 34 58 34 34 44 34 99 114 101 97 116 101 100 95 97 116 34 58 34 50 48 50 53 45 48 49 45 49 54 84 49 48 58 49 52 58 49 50 43 48 55 58 48 48 34 44 34 117 112 100 97 116 101 100 95 97 116 34 58 34 50 48 50 53 45 48 49 45 49 54 84 49 48 58 49 52 58 49 50 43 48 55 58 48 48 34 125])"}
+{"level":"INFO","time":"2025-01-16T17:48:00.035+0700","caller":"cache/product.cache.go:49","msg":"product data%!(EXTRA []uint8=[123 34 105 100 34 58 49 44 34 112 114 111 100 117 99 116 95 117 114 108 34 58 34 104 116 116 112 115 58 47 47 101 120 97 109 112 108 101 46 99 111 109 47 112 114 111 100 117 99 116 47 49 34 44 34 112 114 111 100 117 99 116 95 99 97 116 101 103 111 114 121 34 58 34 69 108 101 99 116 114 111 110 105 99 115 34 44 34 100 101 115 99 114 105 112 116 105 111 110 34 58 34 65 32 104 105 103 104 45 113 117 97 108 105 116 121 32 115 109 97 114 116 112 104 111 110 101 32 119 105 116 104 32 97 109 97 122 105 110 103 32 102 101 97 116 117 114 101 115 46 34 44 34 112 114 105 99 101 34 58 48 44 34 115 116 97 116 117 115 34 58 49 44 34 113 117 97 110 116 105 116 121 34 58 49 48 48 44 34 112 114 111 100 117 99 116 95 110 97 109 101 34 58 34 34 44 34 99 114 101 97 116 101 100 95 97 116 34 58 34 50 48 50 53 45 48 49 45 49 54 84 49 48 58 49 52 58 49 50 43 48 55 58 48 48 34 44 34 117 112 100 97 116 101 100 95 97 116 34 58 34 50 48 50 53 45 48 49 45 49 54 84 49 48 58 49 52 58 49 50 43 48 55 58 48 48 34 125])"}
